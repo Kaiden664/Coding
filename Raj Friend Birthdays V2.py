@@ -1,0 +1,18 @@
+x = "Raj friend birthday's"
+y = 20
+print(x)
+name1 = input("what is your 1st Friend's name ")
+date1 = input("When is their birthdate ")
+name2 = input("what is your 2nd Friend's name ")
+date2 = input("When is their birthdate ")
+name3 = input("what is your 3rd Friend's name ")
+date3 = input("When is their birthdate ")
+name4 = input("what is your 4th Friend's name ")
+date4 = input("When is their birthdate ")
+name5 = input("what is your 5th Friend's name ")
+date5 = input("When is their birthdate ")
+print(f"{date1},{name1}")
+print(f"{date2},{name2}")
+print(f"{date3},{name3}")
+print(f"{date4},{name4}")
+print(f"{date5},{name5}")
